@@ -1,0 +1,17 @@
+member,day,start,end,subject
+Piyush,Monday,09:00,10:00,Maths
+Piyush,Monday,11:00,12:00,Physics
+Piyush,Monday,14:00,16:00,Python Lab
+Piyush,Tuesday,09:00,11:00,Chemistry
+Piyush,Tuesday,10:30,11:30,English
+Piyush,Wednesday,10:00,12:00,Electronics
+Aman,Monday,09:30,11:30,Python Lab
+Aman,Monday,11:00,12:00,Chemistry
+Aman,Monday,14:00,15:00,Maths
+Aman,Tuesday,12:00,13:00,Physics
+Aman,Wednesday,09:00,10:00,English
+Riya,Monday,10:00,11:00,Maths
+Riya,Monday,15:00,16:30,Electronics
+Riya,Tuesday,09:00,10:00,Physics
+Riya,Wednesday,13:00,15:00,Python Lab
+Riya,Friday,25:00,26:00,Bad Entry
